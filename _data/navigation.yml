@@ -1,0 +1,17 @@
+# main links links
+main:
+  - title: "Publications, Data & Codes"
+    url: /publications/
+
+#  - title: "Talks"
+#    url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+
+#  - title: "Codes"
+#    url: /codes/
+#
+#  - title: "Blog Posts"
+#    url: /year-archive/
+
