@@ -10,7 +10,7 @@ redirect_from:
 
 I am an applied ML + NLP researcher interested in [DNN Explainability](https://dl.acm.org/doi/pdf/10.1145/3529755) and [Information Extraction](https://home.cs.colorado.edu/~martin/csci5417/ie-chapter.pdf) -- I want to understand the alignment between LLMs and humans in NLU tasks.   
 
-I am currently a research fellow at the [University of Michigan Medical School](https://medschool.umich.edu/) where I work on IE on clinical text (specifically, the generalization aspect of IE models).
+I am currently a research fellow at the [University of Michigan Medical School](https://medschool.umich.edu/) where I work on IE models on clinical text and their generalization abilities + models for early dementia prediction.
 
 I came to Michigan from the [Department of Computer Science, UCPH](https://di.ku.dk/), [CopeNLU group](https://www.copenlu.com/) where I worked on the explainability of DNN models used in multi-hop reasoning systems, such as question answering, fact checking and natural language inference.
  
@@ -18,7 +18,7 @@ I came to Michigan from the [Department of Computer Science, UCPH](https://di.ku
 
 During my Ph.D. from Penn State I worked in the [CiteSeerX group](https://citeseerx.ist.psu.edu/index;jsessionid=DDB8AF927F0F126F814EB950D1ACB826) on information extraction from scholarly figures and tables, information retrieval and crawling.
 
-The best way to reach me is to 𝕏 [@sagnikrayc](https://twitter.com/sagnikrayc).
+The best way to reach me is by 𝕏 [@sagnikrayc](https://twitter.com/sagnikrayc).
 
 
 ### News
