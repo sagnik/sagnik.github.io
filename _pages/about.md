@@ -7,8 +7,21 @@ redirect_from:
   - /about/
   - /about.html
 ---
- I am a postdoctoral researcher at the [Department of Computer Science, UCPH](https://di.ku.dk/), [CopeNLU group](https://www.copenlu.com/). I work on the explainability of DNN models used in multi-hop reasoning systems, such as question answering, fact checking and natural language inference.
+
+I am an applied ML + NLP researcher interested in [DNN Explainability](https://dl.acm.org/doi/pdf/10.1145/3529755) and [Information Extraction](https://home.cs.colorado.edu/~martin/csci5417/ie-chapter.pdf) -- I want to understand the alignment between LLMs and humans in NLU tasks.   
+
+I am a research fellow at the [University of Michigan Medical School](https://medschool.umich.edu/) where I work on IE on clinical text (specifically, the generalization aspect of IE models).
+
+I came to Michigan from the [Department of Computer Science, UCPH](https://di.ku.dk/), [CopeNLU group](https://www.copenlu.com/) where I worked on the explainability of DNN models used in multi-hop reasoning systems, such as question answering, fact checking and natural language inference.
  
  Before that, I worked as an NLP/ML engineer at [Interactions](https://interactions.com). I developed DNN models for large scale entity extraction and linking, dialog systems, and sentiment classification. I also contributed to [a DNN library](https://github.com/dpressel/baseline) that was used as the ML backend for the company.
 
 During my Ph.D. from Penn State I worked in the [CiteSeerX group](https://citeseerx.ist.psu.edu/index;jsessionid=DDB8AF927F0F126F814EB950D1ACB826) with [Dr. C. Lee Giles](https://clgiles.ist.psu.edu/). I worked on information extraction from scholarly figures and tables, information retrieval and crawling.
+
+The best way to reach me is to   [@sagnikrayc](https://twitter.com/sagnikrayc).
+
+
+### News
+- **Dec 2023**: EMNLP travel + talk.
+- **Nov 2023**: [PLOS ONE paper on gender bias in LLMs](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277640)
+- **Oct 2023**: Two papers accepted: 1. [ConLL paper on Edge probing](https://arxiv.org/pdf/2310.13856.pdf) and 2. [EMNLP main on interaction explanations](https://arxiv.org/pdf/2310.13506.pdf).
