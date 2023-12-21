@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an applied ML + NLP researcher interested in [DNN Explainability](https://dl.acm.org/doi/pdf/10.1145/3529755) and [Information Extraction](https://home.cs.colorado.edu/~martin/csci5417/ie-chapter.pdf) -- I want to understand the alignment between LLMs and humans in NLU tasks.   
+I am an applied ML + NLP researcher interested in [explainability of LLMs](https://dl.acm.org/doi/pdf/10.1145/3529755) used in natural language understanding tasks such as [machine reading comprehension](https://web.stanford.edu/~jurafsky/slp3/old_oct19/25.pdf) and [information extraction](https://home.cs.colorado.edu/~martin/csci5417/ie-chapter.pdf) -- I want to understand the alignment between LLMs and humans in these problems.   
 
-I am currently a research fellow at the [University of Michigan Medical School](https://medschool.umich.edu/) where I work on IE models on clinical text and their generalization abilities + models for early dementia prediction.
+I am currently a research fellow at the [University of Michigan Medical School](https://medschool.umich.edu/) where I work on information extraction models on clinical text and their generalization abilities + models for early dementia prediction.
 
 I came to Michigan from the [Department of Computer Science, UCPH](https://di.ku.dk/), [CopeNLU group](https://www.copenlu.com/) where I worked on the explainability of DNN models used in multi-hop reasoning systems, such as question answering, fact checking and natural language inference.
  
