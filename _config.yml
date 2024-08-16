@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sagnik Ray Choudhury"
 title_separator          : "-"
 name                     : &name "Sagnik Ray Choudhury"
-description              : &description "Applied NLP/ML Researcher/Engineer"
+description              : &description "Assistant professor, Computer Science"
 url                      : https://sagnik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sagnik/sagnik.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sagnik Ray Choudhury"
   avatar           : "profile.jpeg"
-  bio              : "Applied NLP/ML researcher/engineer. Clinical IE  @UMich, Explainability @UPCH, Dialog systems @Interactions, Scholarly IE @Penn State."
+  bio              : "Applied NLP/ML researcher. Asst prof @UNT, Clinical IE  @UMich, Explainability @UPCH, Dialog systems @Interactions, Scholarly IE @Penn State."
   location         : "Ann Arbor"
   employer         :
   dblp             : "https://dblp.org/pid/132/5374.html"
