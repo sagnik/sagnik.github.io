@@ -14,10 +14,11 @@ Previously, I was an NLP Scientist at the [National Board of Medical Examiners](
 During my Ph.D. from Penn State I worked in the [CiteSeerX group](https://citeseerx.ist.psu.edu/index;jsessionid=DDB8AF927F0F126F814EB950D1ACB826) on information extraction from scholarly figures and tables, information retrieval and crawling. Post Ph.D, I worked as an NLP/ML engineer at [Interactions](https://interactions.com). I developed DNN models for large scale entity extraction and linking, dialog systems, and sentiment classification. I also contributed to [a DNN library](https://github.com/dpressel/baseline) that was used as the ML backend for the company.
 
 
-The best way to reach me is by 𝕏 [@sagnikrayc](https://twitter.com/sagnikrayc).
+The best way to reach me is by ~𝕏 [@sagnikrayc](https://twitter.com/sagnikrayc)~ email: sagnikrayc at gmail dot com.
 
 
 ### News
+- **EMNLP 2024**: Paper on generalization awarded prize - GenBench@EMNLP2024.
 - **August 2024**: Joined the University of North Texas as an assitant professor of computer science.
 - **July 2024**: Paper accepted at CIKM 2024 on reproducibility -- more information + arxiv link coming soon!
 - **Dec 2023**: EMNLP travel + talk.
