@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor at the [Department of Computer Science and Engineering, University of North Texas](https://computerscience.engineering.unt.edu/). I have two broad research interests: 1. [Explaining the behavior and limitations of LLMs](https://dl.acm.org/doi/pdf/10.1145/3529755) with a focus on [model bias](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277640) and [reasoning abilities](https://aclanthology.org/2022.coling-1.8/); and 2. Scholarly information processing to enhance users' experience with digital libraries. Some of the example tasks are a)[extracting information from scientific figures](https://dl.acm.org/doi/pdf/10.1145/2928294.2928305), b) [understanding reproducibility of scientific articiles](https://dl.acm.org/doi/pdf/10.1145/3627673.3679831), and [automatically generating limitations of scientific papers](https://arxiv.org/pdf/2505.18207).
+I am an assistant professor at the [Department of Computer Science and Engineering, University of North Texas](https://computerscience.engineering.unt.edu/). I have two broad research interests: 1. [Explaining the behavior and limitations of LLMs](https://dl.acm.org/doi/pdf/10.1145/3529755) with a focus on [model bias](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0277640) and [reasoning abilities](https://aclanthology.org/2022.coling-1.8/); and 2. Scholarly information processing to enhance users' experience with digital libraries. Some example tasks are a) [extracting information from scientific figures](https://dl.acm.org/doi/pdf/10.1145/2928294.2928305), b) [understanding reproducibility of scientific articiles](https://dl.acm.org/doi/pdf/10.1145/3627673.3679831), and [automatically generating limitations of scientific papers](https://arxiv.org/pdf/2505.18207).
 
 The best way to reach me is by email: sagnikrayc at gmail dot com. I am not on any social media (X/bluesky/Insta/FB). The linkedin profile is not maintained.
 
@@ -18,7 +18,7 @@ The best way to reach me is by email: sagnikrayc at gmail dot com. I am not on a
 - **Pre-print**: On measuring political bias in LLMs (or the futility of it): [A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models](https://arxiv.org/pdf/2506.22493)
 - **EMNLP 2025**: Findings: [BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text](https://arxiv.org/pdf/2505.18207). The camera-ready would be uploaded on arxiv soon, with dataset and code.
 - **SDP@ACL 2025**: [Predicting The Scholarly Impact of Research Papers Using Retrieval-Augmented LLMs](https://aclanthology.org/2025.sdp-1.11/)
-- **EMNLP 2024**: Paper on generalization awarded prize - GenBench@EMNLP2024.
+- **EMNLP 2024**: Paper on generalization awarded prize - GenBench@EMNLP2024
 - **August 2024**: Joined the University of North Texas as an assitant professor of computer science.
 - **July 2024**: Paper accepted at CIKM 2024 on reproducibility -- more information + arxiv link coming soon!
 - **Dec 2023**: EMNLP travel + talk.
