@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/2014-sbd-arch-2
 date: 2014-1-1
 venue: 'ICDE'
-paperurl: 'http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.589.6810&rep=rep1&type=pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/6818305'
 ---
 scholarly big data, architecture
 
-[Download paper here](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.589.6810&rep=rep1&type=pdf)
+[Download paper here](https://www.cs.odu.edu/~jwu/downloads/pubs/williams-2014-iiweb/williams-2014-iiweb.pdf)
 
 Dataset: -
 
