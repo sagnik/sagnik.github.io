@@ -14,7 +14,7 @@ The best way to reach me is by email: sagnikrayc at gmail dot com. I am not on a
 
 ### News
 
-- **JCDL 2025**: I am a co-chair for the [2025 ACM/IEEE Joint Conference of Digital Libraries (JCDL'25)](https://2025.jcdl.org/). This time JCDL is completely virtual and synchronous, send your papers! Full CFP here: [https://2025.jcdl.org/call-for-papers/](https://2025.jcdl.org/call-for-papers/)  
+- **JCDL 2025**: I am a co-PC chair for the [2025 ACM/IEEE Joint Conference of Digital Libraries (JCDL'25)](https://2025.jcdl.org/). This time JCDL is completely virtual and synchronous, send your papers! Full CFP here: [https://2025.jcdl.org/call-for-papers/](https://2025.jcdl.org/call-for-papers/)  
 - **Pre-print**: On measuring political bias in LLMs (or the futility of it): [A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models](https://arxiv.org/pdf/2506.22493)
 - **EMNLP 2025**: Findings: [BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text](https://arxiv.org/pdf/2505.18207). The camera-ready would be uploaded on arxiv soon, with dataset and code.
 - **SDP@ACL 2025**: [Predicting The Scholarly Impact of Research Papers Using Retrieval-Augmented LLMs](https://aclanthology.org/2025.sdp-1.11/)
