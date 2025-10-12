@@ -7,4 +7,4 @@ venue: 'CLEF'
 ---
 plagiarism source retrieval
 
-[Download paper here](../files/clef-psr.pdf)
+[Download paper here](../files/publication-pdfs/2013-clef-psr.pdf)
