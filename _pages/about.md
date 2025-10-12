@@ -14,6 +14,7 @@ The best way to reach me is by email: sagnikrayc at gmail dot com. I am not on a
 
 ### News
 
+- **Pre-print**: On the effectiveness of highlight explanations in identifying context utilization in LLMs: [Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models](https://arxiv.org/abs/2510.02629)
 - **JCDL 2025**: I am a co-chair for the [2025 ACM/IEEE Joint Conference of Digital Libraries (JCDL'25)](https://2025.jcdl.org/). This time JCDL is completely virtual and synchronous, send your papers! Full CFP here: [https://2025.jcdl.org/call-for-papers/](https://2025.jcdl.org/call-for-papers/)  
 - **Pre-print**: On measuring political bias in LLMs (or the futility of it): [A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models](https://arxiv.org/pdf/2506.22493)
 - **EMNLP 2025**: Findings: [BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text](https://arxiv.org/pdf/2505.18207). The camera-ready would be uploaded on arxiv soon, with dataset and code.

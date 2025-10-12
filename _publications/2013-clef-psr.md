@@ -5,8 +5,6 @@ permalink: /publication/2013-clef-psr
 date: 2013-1-1
 venue: 'CLEF'
 ---
-plagiarism source retrieval 
+plagiarism source retrieval
 
-Dataset: -
-
-Code: -
+[Download paper here](files/clef-psr.pdf)
