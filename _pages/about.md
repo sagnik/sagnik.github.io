@@ -14,6 +14,7 @@ The best way to reach me is by email: sagnikrayc at gmail dot com. I am not on a
 
 ### News
 
+- **EACL 2026**: One paper accepted at EACL 2026 main!
 - **AACL-IJCNLP 2025**: Two papers accepted to AACL IJCNLP main, preprints coming soon!
 - **Pre-print**: On the effectiveness of highlight explanations in identifying context utilization in LLMs: [Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models](https://arxiv.org/abs/2510.02629)
 - **JCDL 2025**: I am a co-PC chair for the [2025 ACM/IEEE Joint Conference of Digital Libraries (JCDL'25)](https://2025.jcdl.org/). This time JCDL is completely virtual and synchronous, send your papers! Full CFP here: [https://2025.jcdl.org/call-for-papers/](https://2025.jcdl.org/call-for-papers/)  
