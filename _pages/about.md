@@ -13,7 +13,9 @@ I am an assistant professor at the [Department of Computer Science and Engineeri
 The best way to reach me is by email: sagnikrayc at gmail dot com. I am not on any social media (X/bluesky/Insta/FB). The linkedin profile is not maintained.
 
 ### News
-
+- **LREC 2026**: Two papers accepted at LREC 2026.
+  - With [Tasfia](https://tasfiaseuti.github.io/): [S-GRADES -- Studying Generalization of Student Response Assessments in Diverse Evaluative Settings](https://arxiv.org/abs/2603.10233)
+  - With [Rafid](https://rafid5.github.io/) and [Fahmid](https://fahmidiqbal1344.github.io/fahmid-iqbal/): [LFQA-HP-1M: A Large-Scale Human Preference Dataset for Long-Form Question Answering](https://arxiv.org/abs/2602.23603)
 - **EACL 2026**: One paper accepted at EACL 2026 main!
 - **AACL-IJCNLP 2025**: Two papers accepted to AACL IJCNLP main, preprints coming soon!
 - **Pre-print**: On the effectiveness of highlight explanations in identifying context utilization in LLMs: [Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models](https://arxiv.org/abs/2510.02629)
