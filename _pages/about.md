@@ -19,8 +19,11 @@ The best way to reach me is by email: sagnikrayc at gmail dot com. I am not on a
 - **LREC 2026**: Two papers accepted at LREC 2026.
   - With [Tasfia](https://tasfiaseuti.github.io/): [S-GRADES -- Studying Generalization of Student Response Assessments in Diverse Evaluative Settings](https://arxiv.org/abs/2603.10233)
   - With [Rafid](https://rafid5.github.io/) and [Fahmid](https://fahmidiqbal1344.github.io/fahmid-iqbal/): [LFQA-HP-1M: A Large-Scale Human Preference Dataset for Long-Form Question Answering](https://arxiv.org/abs/2602.23603)
-- **EACL 2026**: One paper accepted at EACL 2026 main!
-- **AACL-IJCNLP 2025**: Two papers accepted to AACL IJCNLP main, preprints coming soon!
+- **EACL 2026**: [One paper](https://aclanthology.org/2026.eacl-long.238/) accepted at EACL 2026 main!
+- **AACL-IJCNLP 2025**: Two papers accepted to AACL IJCNLP main.
+  - [A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models](https://aclanthology.org/2025.ijcnlp-short.25/)
+  - SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing(https://aclanthology.org/2025.ijcnlp-long.70/)
+
 - **JCDL 2025**: I am a co-PC chair for the [2025 ACM/IEEE Joint Conference of Digital Libraries (JCDL'25)](https://2025.jcdl.org/). This time JCDL is completely virtual and synchronous, send your papers! Full CFP here: [https://2025.jcdl.org/call-for-papers/](https://2025.jcdl.org/call-for-papers/)  
 - **Pre-print**: On measuring political bias in LLMs (or the futility of it): [A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models](https://arxiv.org/pdf/2506.22493)
 - **EMNLP 2025**: Findings: [BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text](https://arxiv.org/pdf/2505.18207). The camera-ready would be uploaded on arxiv soon, with dataset and code.
