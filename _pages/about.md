@@ -13,7 +13,7 @@ I am an assistant professor at the [Department of Computer Science and Engineeri
 The best way to reach me is by email: sagnikrayc at gmail dot com. I am not on any social media (X/bluesky/Insta/FB). The linkedin profile is not maintained.
 
 ### News
-- **New paper in the [Computational Linguistics journal](https://direct.mit.edu/coli)**: On the effectiveness of highlight explanations in identifying context utilization in LLMs: [Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models](https://arxiv.org/abs/2510.02629). The pre-print will be updated soon with the latest version.
+- **New paper in the [Computational Linguistics journal](https://direct.mit.edu/coli)**: On the effectiveness of highlight explanations in identifying context utilization in LLMs: [Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models](https://arxiv.org/abs/2510.02629). The pre-print will be updated soon with the latest version, and presented in ACL 2026 by the first author.
 
 - **JCDL 2026**: [Is in Denton](https://2026.jcdl.org/), and I am a local chair, please [send your papers!](https://2026.jcdl.org/call-for-papers/) 
 - **LREC 2026**: Two papers accepted at LREC 2026.
@@ -22,7 +22,7 @@ The best way to reach me is by email: sagnikrayc at gmail dot com. I am not on a
 - **EACL 2026**: [One paper](https://aclanthology.org/2026.eacl-long.238/) accepted at EACL 2026 main!
 - **AACL-IJCNLP 2025**: Two papers accepted to AACL IJCNLP main.
   - [A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models](https://aclanthology.org/2025.ijcnlp-short.25/)
-  - SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing(https://aclanthology.org/2025.ijcnlp-long.70/)
+  - [SciHallu: A Multi-Granularity Hallucination Detection Dataset for Scientific Writing](https://aclanthology.org/2025.ijcnlp-long.70/)
 
 - **JCDL 2025**: I am a co-PC chair for the [2025 ACM/IEEE Joint Conference of Digital Libraries (JCDL'25)](https://2025.jcdl.org/). This time JCDL is completely virtual and synchronous, send your papers! Full CFP here: [https://2025.jcdl.org/call-for-papers/](https://2025.jcdl.org/call-for-papers/)  
 - **Pre-print**: On measuring political bias in LLMs (or the futility of it): [A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models](https://arxiv.org/pdf/2506.22493)
