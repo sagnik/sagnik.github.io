@@ -13,6 +13,7 @@ I am an assistant professor at the [Department of Computer Science and Engineeri
 The best way to reach me is by email: sagnikrayc at gmail dot com. I am not on any social media (X/bluesky/Insta/FB). The linkedin profile is not maintained.
 
 ### News
+- **ACL 2026**: The CL paper will be presented by Jingyi at the main conference and the S-GRADES and LFQA-HP-1M paper will be presented by Tasfia and Rafid at the [GEM workshop non-archival track](https://gem-workshop.com/).     
 - **New paper in the [Computational Linguistics journal](https://direct.mit.edu/coli)**: On the effectiveness of highlight explanations in identifying context utilization in LLMs: [Evaluation Framework for Highlight Explanations of Context Utilisation in Language Models](https://direct.mit.edu/coli/article/doi/10.1162/COLI.a.621/136361/Evaluation-Framework-for-Highlight-Explanations-of).
 
 - **JCDL 2026**: [Is in Denton](https://2026.jcdl.org/), and I am a local chair, please [send your papers!](https://2026.jcdl.org/call-for-papers/) 
